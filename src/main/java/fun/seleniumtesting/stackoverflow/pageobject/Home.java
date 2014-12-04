@@ -17,4 +17,32 @@ public class Home {
         searchBar.sendKeys(searchPhrase);
         searchBar.sendKeys(Keys.ENTER);
     }
+
+    // Buttons at top of page
+
+    public void clickQuestionsButton() {
+        //TODO click the "Questions" button
+    }
+
+    public void clickTagsButton() {
+        //TODO click the "Tags" button
+    }
+
+    public void clickUsersButton() {
+        //TODO click the "Users" button
+    }
+
+    public void clickBadgesButton() {
+        //TODO click the "Badges" button
+    }
+
+    public void clickUnansweredButton() {
+        //TODO click the "Unanswered" button
+    }
+
+    public void clickAskQuestionButton() {
+        //TODO click the "Ask Question" button
+    }
+
+
 }
